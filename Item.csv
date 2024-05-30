@@ -1,0 +1,62 @@
+Item_ID,Item_Name,Item_Category,Price
+Item_1,Aquarium Blue,Oil Paint,293
+Item_10,Grape,Emulsion Paint,224
+Item_11,Velvet,Emulsion Paint,229
+Item_12,Soft Orange,Emulsion Paint,242
+Item_13,Navy Blue,Emulsion Paint,244
+Item_14,Cream,Emulsion Paint,244
+Item_15,Classic Gray,Emulsion Paint,217
+Item_16,White,Emulsion Paint,206
+Item_17,Mellow Yellow,Emulsion Paint,228
+Item_18,Bright Red,Emulsion Paint,226
+Item_19,Soft Red,Oil Paint,316
+Item_2,Pale Green,Oil Paint,347
+Item_20,Bright Turquoise,Oil Paint,510
+Item_21,Plum,Oil Paint,323
+Item_22,Sage Green,Enamel Paint,637
+Item_23,Flat Black,Enamel Paint,800
+Item_24,Royal Blue,Enamel Paint,514
+Item_25,Cocoa,Enamel Paint,509
+Item_26,Army Green,Enamel Paint,539
+Item_27,Coral,Enamel Paint,601
+Item_28,Deep Teal,Anti-Corrosive Paint,376
+Item_29,Sky Blue,Anti-Corrosive Paint,343
+Item_3,Soft Green,Oil Paint,476
+Item_30,Cream,Synthetic paint,433
+Item_31,Classic Gray,Synthetic paint,296
+Item_32,White,Synthetic paint,247
+Item_33,Mellow Yellow,Synthetic paint,340
+Item_34,Bright Red,Synthetic paint,525
+Item_35,Soft Red,Synthetic paint,272
+Item_36,Bright Turquoise,Synthetic paint,579
+Item_37,Plum,Synthetic paint,221
+Item_38,Sage Green,Synthetic paint,305
+Item_39,Flat Black,Synthetic paint,502
+Item_4,Noen Pink,Oil Paint,391
+Item_40,Royal Blue,Synthetic paint,377
+Item_41,Coral,Synthetic paint,566
+Item_42,Soft Pink,Oil Paint,564
+Item_43,Grape,Oil Paint,264
+Item_44,Velvet,Oil Paint,353
+Item_45,Soft Orange,Oil Paint,483
+Item_46,Navy Blue,Oil Paint,520
+Item_47,Cream,Oil Paint,329
+Item_48,Classic Gray,Oil Paint,597
+Item_49,Cream,Anti-Corrosive Paint,267
+Item_5,Off White,Oil Paint,462
+Item_50,Classic Gray,Anti-Corrosive Paint,333
+Item_51,White,Anti-Corrosive Paint,513
+Item_52,Mellow Yellow,Anti-Corrosive Paint,467
+Item_53,Bright Red,Anti-Corrosive Paint,250
+Item_54,Soft Red,Anti-Corrosive Paint,326
+Item_55,Bright Turquoise,Anti-Corrosive Paint,428
+Item_56,Noen Pink,Anti-Corrosive Paint,599
+Item_57,Off White,Anti-Corrosive Paint,427
+Item_58,Dusty Purple,Anti-Corrosive Paint,553
+Item_59,Soft Purple,Anti-Corrosive Paint,506
+Item_6,Dusty Purple,Oil Paint,260
+Item_60,Coral,Anti-Corrosive Paint,329
+Item_61,Aquarium Blue,Anti-Corrosive Paint,495
+Item_7,Soft Purple,Oil Paint,282
+Item_8,Soft Blue,Oil Paint,416
+Item_9,Soft Pink,Emulsion Paint,227
